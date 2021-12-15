@@ -5,7 +5,7 @@ If you already know how to time your rallies properly then this bot will automat
 If you still struggle with rally timings then this bot will solve all your problems and you will greatly improve your performances in AC.
 
 The bot is very easy to use, as it is fully integrated within Discord thanks to Slash Commands.
-Its precision is ±1s (2s window) which is way better than any other alliance (most people don't like to admit that their timing is around ±3s (6s window).
+Its precision is ±1s (2s window) which is way better than any other alliance (most people don't like to admit that their timing is around ±3s (6s window) at best.
 
 It is a Discord bot, which means that it stays on Discord. It can only send messages, mention everyone (with @), connect to a voice channel, and speak. It cannot see your game, it cannot click for you, it cannot modify the game files, ...
 
