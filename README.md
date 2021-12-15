@@ -6,11 +6,11 @@ This Discord bot helps with rally timings in the AC event.
 * This bot also replies to DMs
 
 # Main commands
-## /ac_register (only for rally leaders)
+*/ac_register (only for rally leaders)
 
 Register yourself with your X and Y coords, and your marching speed percentage. The bot will remember you for the rest of the match.
 
-## /ac_rally (only for marquis)
+*/ac_rally (only for marquis)
 
 Computes rally timing for every registered rally leader. The bot will return every rally leaders' timing for the selected building.
 
