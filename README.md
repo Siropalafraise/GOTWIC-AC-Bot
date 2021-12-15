@@ -1,6 +1,10 @@
 # GOTWIC AC Bot
 This Discord bot helps with rally timings in the AC event.
 
+# Installation
+* [Click here](https://discord.com/api/oauth2/authorize?client_id=812358480392224778&permissions=11264&scope=bot) to add this bot to your Discord server
+* This bot also replies to DMs
+
 # Main commands
 ## /ac_register (only for rally leaders)
 
