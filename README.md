@@ -44,10 +44,8 @@ Adds 1 rally leader to the list. Use this command to register someone who does n
 Deletes 1 rally leader from the list.
 
 # Installation
-* [Click here](https://discord.com/api/oauth2/authorize?client_id=864522986995843113&permissions=3278848&scope=bot%20applications.commands) to add this bot to your Discord server
-* You have to contact me before using it, to set it up (permissions, voice channel, troop type)
+[Click here](https://discord.com/api/oauth2/authorize?client_id=864522986995843113&permissions=3278848&scope=bot%20applications.commands) to add this bot to your Discord server
 
-# Set up
 After inviting the bot in your Discord server, I will need:
 
 0. Go to your account Setting, Advanced, Enable Developer Mode
@@ -58,6 +56,15 @@ After inviting the bot in your Discord server, I will need:
 5. ID of the Member role (right click on the Member role, COPY ID)
 6. ID of the voice channel you are going to use during AC (right click on the voice channel, COPY ID)
 7. The troop type you are going to use in the rally (the bot only works if all the rally leaders use the same troop type)
+
+After setting up the bot, you will need to test it to make sure everything works fine:
+1. Register yourself with fake info (ex: X = 15, Y = 25, % = 150.50)
+2. Add another player with fake info (ex: The bot, X = 25, Y = 10, % = 125%)
+3. Display the list of registered players
+4. Rally a building
+5. Start the countdown (make sure it start 10s before the slowest player with the highest timing)
+6. Display the AC map
+7. Reset the list
 
 ## Contact
 To install the bot on your server, or for any idea, suggestion, fix, etc., please contact me on Discord (Siropalafraise#3862) or in the game (Sirop)
