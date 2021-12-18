@@ -47,17 +47,6 @@ Deletes 1 rally leader from the list.
 * [Click here](https://discord.com/api/oauth2/authorize?client_id=864522986995843113&permissions=3278848&scope=bot%20applications.commands) to add this bot to your Discord server
 * You have to contact me before using it, to set it up (permissions, voice channel, troop type)
 
-# Set up
-I will need:
-0. Go to your account Setting, Advanced, Enable Developer Mode
-1. Name of your Discord server (case sensitive)
-2. ID of your Discord server (right click on your server's name, Copy ID)
-3. ID of the Marquis role (right click on the Marquis role, COPY ID)
-4. ID of the Rally Leader role (right click on the Marquis role, COPY ID) (Pass this step if you don't have that role)
-5. ID of the Member role (right click on the Member role, COPY ID)
-6. ID of the voice channel you are going to use during AC (right click on the voice channel, COPY ID)
-7. The troop type you are going to use in the rally (the bot only works if all the rally leaders use the same troop type)
-
 ## Contact
 To install the bot on your server, or for any idea, suggestion, fix, etc., please contact me on Discord (Siropalafraise#3862) or in the game (Sirop)
 
