@@ -66,7 +66,16 @@ After setting up the bot, you will need to test it to make sure everything works
 6. Display the AC map
 7. Reset the list
 
-## Contact
+# Miscellaneous
+It's still experimental, it worked well last season so it should work but you never know.
+
+It will be disabled if you match up with my alliance.
+
+I'm giving it for free for now but my goal is to make some money out of it, not much but a few $, starting from the next UC season.
+
+If you play events at GMT 19 (or 13 during weekends), then you can contact me for debug during the event, but be ready to do it "the good old way" just in case, as a plan B.
+
+# Contact
 To install the bot on your server, or for any idea, suggestion, fix, etc., please contact me on Discord (Siropalafraise#3862) or in the game (Sirop).
 
 
