@@ -48,7 +48,7 @@ Deletes 1 rally leader from the list.
 * You have to contact me before using it, to set it up (permissions, voice channel, troop type)
 
 # Set up
-I will need:
+After inviting the bot in your Discord server, I will need:
 
 0. Go to your account Setting, Advanced, Enable Developer Mode
 1. Name of your Discord server (case sensitive)
