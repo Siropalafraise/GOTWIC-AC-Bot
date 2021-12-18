@@ -44,7 +44,7 @@ Adds 1 rally leader to the list. Use this command to register someone who does n
 Deletes 1 rally leader from the list.
 
 # Installation
-[Click here](https://discord.com/api/oauth2/authorize?client_id=864522986995843113&permissions=3278848&scope=bot%20applications.commands) to add this bot to your Discord server
+[Click here](https://discord.com/api/oauth2/authorize?client_id=864522986995843113&permissions=3278848&scope=bot%20applications.commands) to add this bot to your Discord server.
 
 After inviting the bot in your Discord server, I will need:
 
@@ -67,7 +67,7 @@ After setting up the bot, you will need to test it to make sure everything works
 7. Reset the list
 
 ## Contact
-To install the bot on your server, or for any idea, suggestion, fix, etc., please contact me on Discord (Siropalafraise#3862) or in the game (Sirop)
+To install the bot on your server, or for any idea, suggestion, fix, etc., please contact me on Discord (Siropalafraise#3862) or in the game (Sirop).
 
 
 
