@@ -62,7 +62,7 @@ After setting up the bot, you will need to test it to make sure everything works
 2. Add another player with fake info (ex: The bot, X = 25, Y = 10, % = 125%)
 3. Display the list of registered players
 4. Rally a building
-5. Start the countdown (make sure it start 10s before the slowest player with the highest timing)
+5. Start the countdown (make sure it starts 10s before the slowest player with the highest timing)
 6. Display the AC map
 7. Reset the list
 
