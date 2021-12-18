@@ -54,7 +54,7 @@ After inviting the bot in your Discord server, I will need:
 1. Name of your Discord server (case sensitive)
 2. ID of your Discord server (right click on your server's name, Copy ID)
 3. ID of the Marquis role (right click on the Marquis role, COPY ID)
-4. ID of the Rally Leader role (right click on the Marquis role, COPY ID) (Pass this step if you don't have that role)
+4. ID of the Rally Leader role (right click on the Rally Leader role, COPY ID) (Pass this step if you don't have that role)
 5. ID of the Member role (right click on the Member role, COPY ID)
 6. ID of the voice channel you are going to use during AC (right click on the voice channel, COPY ID)
 7. The troop type you are going to use in the rally (the bot only works if all the rally leaders use the same troop type)
