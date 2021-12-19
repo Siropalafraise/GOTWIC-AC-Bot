@@ -69,7 +69,7 @@ After setting up the bot, you will need to test it to make sure everything works
 # Miscellaneous
 It's still experimental, it worked well last season so it should work but you never know.
 
-It will be disabled if you match up with my alliance.
+It will be disabled if you match up against my alliance.
 
 I'm giving it for free for now but my goal is to make some money out of it, not much but a few $, starting from the next UC season.
 
