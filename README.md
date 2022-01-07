@@ -14,21 +14,33 @@ It is a Discord bot, which means that it stays on Discord. It can only send mess
 
 Register yourself with your X and Y coords, and your marching speed percentage. The bot will remember you for the rest of the match.
 
+![/ac_register](https://i.imgur.com/NojWMm4.png)
+
 * /ac_rally (only for marquis)
 
 Computes rally timing for every registered rally leader. The bot will return every rally leaders' timing for the selected building. The /ac_countdown command is now ready.
+
+![/ac_rally_1](https://i.imgur.com/G307pYM.png)
+![/ac_rally_2](https://i.imgur.com/olJGMZj.png)
 
 * /ac_countdown (only for marquis)
 
 Starts / stops the voice countdown. The bot will connect to your voice channel and do a countdown based on the last /ac_rally command (the countdown starts 10s before the slowest rally leader). Rally leaders will have to manually click on the "Attack now" button when they hear their timing.
 
+![/ac_countdown_1](https://i.imgur.com/czOU6vf.png)
+![/ac_countdown_2](https://i.imgur.com/i5hXUH0.png)
+
 * /ac_map
 
 Shows / updates the AC map. The bot will return the AC map with the formations in each building.
 
+![/ac_map](https://i.imgur.com/p2M29sA.png)
+
 * /ac_reset (only for marquis)
 
 Resets the rally leader list and disconnects the bot from the voice channel. Use this command before every match to start a new list of rally leaders.
+
+![/ac_reset](https://i.imgur.com/TpPmHl4.png)
 
 # Secondary commands
 * /ac_list
@@ -71,9 +83,11 @@ It's still experimental, it worked well last season so it should work but you ne
 
 It will be disabled if you match up against my alliance.
 
-I'm giving it for free for now but my goal is to make some money out of it, not much but a few $, starting from the next UC season.
+I'm giving it for free for now but my goal is to make some money out of it, not much but a few $, not sure when.
 
 If you play events at GMT 19 (or 13 during weekends), then you can contact me for debug during the event, but be ready to do it "the good old way" just in case, as a plan B.
+
+Image gallery : https://imgur.com/a/qqesviL
 
 # Contact
 To install the bot on your server, or for any idea, suggestion, fix, etc., please contact me on Discord (Siropalafraise#3862) or in the game (Sirop).
