@@ -58,7 +58,7 @@ Deletes 1 rally leader from the list.
 # Installation
 [Click here](https://discord.com/api/oauth2/authorize?client_id=864522986995843113&permissions=3278848&scope=bot%20applications.commands) to add this bot to your Discord server.
 
-After inviting the bot in your Discord server, I will need:
+After inviting the bot in your Discord server, you will have to contact me for the set up process. I will need:
 
 0. Go to your account Setting, Advanced, Enable Developer Mode
 1. Name of your Discord server (case sensitive)
@@ -70,8 +70,8 @@ After inviting the bot in your Discord server, I will need:
 7. The troop type you are going to use in the rally (the bot only works if all the rally leaders use the same troop type)
 
 After setting up the bot, you will need to test it to make sure everything works fine:
-1. Register yourself with fake info (ex: X = 15, Y = 25, % = 150.50)
-2. Add another player with fake info (ex: The bot, X = 25, Y = 10, % = 125%)
+1. Register yourself with fake info (ex: X = 25, Y = 65, % = 150.50)
+2. Add another player with fake info (ex: The bot, X = 15, Y = 68, % = 125%)
 3. Display the list of registered players
 4. Rally a building
 5. Start the countdown (make sure it starts 10s before the slowest player with the highest timing)
@@ -79,18 +79,21 @@ After setting up the bot, you will need to test it to make sure everything works
 7. Reset the list
 
 # Miscellaneous
-It's still experimental, it worked well last season so it should work but you never know.
+It's still experimental, it worked well in the last 2 seasons (S9 and S10) so it should still work but you never know.
 
 It will be disabled if you match up against my alliance.
 
 I'm giving it for free for now but my goal is to make some money out of it, not much but a few $, not sure when.
 
-If you play events at GMT 19 (or 13 during weekends), then you can contact me for debug during the event, but be ready to do it "the good old way" just in case, as a plan B.
+If you play events at GMT 19 (or 7 or 13 during weekends), then you can contact me for debug during the event, but be ready to do it "the good old way" just in case, as a plan B.
 
 Image gallery : https://imgur.com/a/qqesviL
 
 # Contact
-To install the bot on your server, or for any idea, suggestion, fix, etc., please contact me on Discord (Siropalafraise#3862) or in the game (Sirop).
+To install the bot on your server, or for any question, please contact me :
+* https://discord.gg/cNbNvn88ky
+* Siropalafraise#3862 on Discord
+* Sirop in game
 
 
 
