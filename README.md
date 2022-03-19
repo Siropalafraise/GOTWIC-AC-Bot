@@ -18,7 +18,7 @@ Register yourself with your X and Y coords, and your marching speed percentage. 
 
 * /ac_rally (only for marquis)
 
-Computes rally timing for every registered rally leader. The bot will return every rally leaders' timing for the selected building. The /ac_countdown command is now ready.
+Computes rally timing for every registered rally leader with the right marching speed bonus. The bot will return every rally leaders' timing for the selected building. The /ac_countdown command is now ready.
 
 ![/ac_rally_1](https://i.imgur.com/kS2GcMC.png)
 ![/ac_rally_2](https://i.imgur.com/HDujSmq.png)
