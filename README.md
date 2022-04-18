@@ -12,36 +12,36 @@ It is a Discord bot, which means that it stays on Discord. It can only send mess
 # Main commands
 * /ac_register (only for rally leaders)
 
-Register yourself with your X and Y coords, and your marching speed percentage. The bot will remember you for the rest of the match.
+Register yourself with your X and Y coords, your marching speed percentage, and the troops you are going to use. The bot will remember you for the rest of the match.
 
-![/ac_register](https://i.imgur.com/BKCOLm5.png)
+![/ac_register](https://i.imgur.com/Z4qWYi8.png)
 
 * /ac_rally (only for marquis)
 
-Computes rally timing for every registered rally leader with the right marching speed bonus. The bot will return every rally leaders' timing for the selected building. The /ac_countdown command is now ready.
+Computes rally timing for every registered rally leader with the selected marching speed bonus. The bot will return every rally leaders' timing for the selected building. The /ac_countdown command is now ready.
 
-![/ac_rally_1](https://i.imgur.com/kS2GcMC.png)
-![/ac_rally_2](https://i.imgur.com/HDujSmq.png)
-![/ac_rally_3](https://i.imgur.com/UBCcKT2.png)
+![/ac_rally_1](https://i.imgur.com/RL4cnIS.png)
+![/ac_rally_2](https://i.imgur.com/q20K5Sx.png)
+![/ac_rally_3](https://i.imgur.com/BoXXaLp.png)
 
 * /ac_countdown (only for marquis)
 
 Starts / stops the voice countdown. The bot will connect to your voice channel and do a countdown based on the last /ac_rally command (the countdown starts 10s before the slowest rally leader). Rally leaders will have to manually click on the "Attack now" button when they hear their timing.
 
-![/ac_countdown_1](https://i.imgur.com/EOxrWNL.png)
-![/ac_countdown_2](https://i.imgur.com/Fzb5tlm.png)
+![/ac_countdown_1](https://i.imgur.com/mgi3ISm.png)
+![/ac_countdown_2](https://i.imgur.com/6umoB65.png)
 
 * /ac_map
 
 Shows / updates the AC map. The bot will return the AC map with the formations in each building.
 
-![/ac_map](https://i.imgur.com/J2bfyem.png)
+![/ac_map](https://i.imgur.com/7YjvNal.png)
 
 * /ac_reset (only for marquis)
 
 Resets the rally leader list and disconnects the bot from the voice channel. Use this command before every match to start a new list of rally leaders.
 
-![/ac_reset](https://i.imgur.com/ld8Ls9R.png)
+![/ac_reset](https://i.imgur.com/Oy81qRE.png)
 
 # Secondary commands
 * /ac_list
@@ -68,11 +68,10 @@ After inviting the bot in your Discord server, you will have to contact me for t
 4. ID of the Rally Leader role (right click on the Rally Leader role, COPY ID) (Pass this step if you don't have that role)
 5. ID of the Member role (right click on the Member role, COPY ID)
 6. ID of the voice channel you are going to use during AC (right click on the voice channel, COPY ID)
-7. The troop type you are going to use in the rally (the bot only works if all the rally leaders use the same troop type)
 
 After setting up the bot, you will need to test it to make sure everything works fine:
-1. Register yourself with fake info (ex: X = 25, Y = 65, % = 150.50)
-2. Add another player with fake info (ex: The bot, X = 15, Y = 68, % = 125%)
+1. Register yourself with fake info (ex: X = 25, Y = 65, % = 150.50, Troops = Bow)
+2. Add another player with fake info (ex: The bot, X = 15, Y = 68, % = 125%, Troops = Cav)
 3. Display the list of registered players
 4. Rally a building
 5. Start the countdown (make sure it starts 10s before the slowest player with the highest timing)
@@ -80,15 +79,11 @@ After setting up the bot, you will need to test it to make sure everything works
 7. Reset the list
 
 # Miscellaneous
-It's still experimental, it worked well in the last 2 seasons (S9 and S10) so it should still work but you never know.
-
 It will be disabled if you match up against my alliance.
-
-I'm giving it for free for now but my goal is to make some money out of it, not much but a few $, not sure when.
 
 If you play events at GMT 19 (or 7 or 13 during weekends), then you can contact me for debug during the event, but be ready to do it "the good old way" just in case, as a plan B.
 
-Image gallery : https://imgur.com/a/qqesviL
+Image gallery : https://imgur.com/a/jwhYUM1
 
 # Contact
 To install the bot on your server, or for any question, please contact me :
