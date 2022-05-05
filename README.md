@@ -64,10 +64,7 @@ After inviting the bot in your Discord server, you will have to contact me for t
 0. Go to your account Setting, Advanced, Enable Developer Mode
 1. Name of your Discord server (case sensitive)
 2. ID of your Discord server (right click on your server's name, Copy ID)
-3. ID of the Marquis role (right click on the Marquis role, COPY ID)
-4. ID of the Rally Leader role (right click on the Rally Leader role, COPY ID) (Pass this step if you don't have that role)
-5. ID of the Member role (right click on the Member role, COPY ID)
-6. ID of the voice channel you are going to use during AC (right click on the voice channel, COPY ID)
+3. ID of the voice channel you are going to use during AC (right click on the voice channel, COPY ID)
 
 After setting up the bot, you will need to test it to make sure everything works fine:
 1. Register yourself with fake info (ex: X = 25, Y = 65, % = 150.50, Troops = Bow)
