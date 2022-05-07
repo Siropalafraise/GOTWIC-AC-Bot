@@ -68,7 +68,7 @@ After inviting the bot in your Discord server, you will have to contact me for t
 
 After setting up the bot, you will need to test it to make sure everything works fine:
 1. Register yourself with fake info (ex: X = 25, Y = 65, % = 150.50, Troops = Bow)
-2. Add another player with fake info (ex: The bot, X = 15, Y = 68, % = 125%, Troops = Cav)
+2. Add another player with fake info (ex: AC bot, X = 15, Y = 68, % = 125%, Troops = Cav)
 3. Display the list of registered players
 4. Rally a building
 5. Start the countdown (make sure it starts 10s before the slowest player with the highest timing)
