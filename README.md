@@ -57,14 +57,12 @@ Adds 1 rally leader to the list. Use this command to register someone who does n
 Deletes 1 rally leader from the list.
 
 # Installation
-[Click here](https://discord.com/api/oauth2/authorize?client_id=864522986995843113&permissions=3278848&scope=bot%20applications.commands) to add this bot to your Discord server.
+[Click here](https://discord.com/api/oauth2/authorize?client_id=864522986995843113&permissions=3278848&scope=applications.commands%20bot) to add this bot to your Discord server.
 
 After inviting the bot in your Discord server, you will have to contact me for the set up process. I will need:
 
 0. Go to your account Setting, Advanced, Enable Developer Mode
-1. Name of your Discord server (case sensitive)
-2. ID of your Discord server (right click on your server's name, Copy ID)
-3. ID of the voice channel you are going to use during AC (right click on the voice channel, COPY ID)
+1. ID of your Discord server (right click on your server's name, Copy ID)
 
 After setting up the bot, you will need to test it to make sure everything works fine:
 1. Register yourself with fake info (ex: X = 25, Y = 65, % = 150.50, Troops = Bow)
@@ -76,8 +74,6 @@ After setting up the bot, you will need to test it to make sure everything works
 7. Reset the list
 
 # Miscellaneous
-It will be disabled if you match up against my alliance.
-
 If you play events at GMT 19 (or 7 or 13 during weekends), then you can contact me for debug during the event, but be ready to do it "the good old way" just in case, as a plan B.
 
 Image gallery : https://imgur.com/a/jwhYUM1
