@@ -68,7 +68,7 @@ After inviting the bot in your Discord server, you will have to send me your Dis
 
 # Image gallery
 
-Coming soon...
+https://imgur.com/a/1EcTyhm
 
 # Contact
 To install the bot on your server, or for any question, please contact me :
