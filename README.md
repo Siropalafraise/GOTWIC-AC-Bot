@@ -73,4 +73,4 @@ https://imgur.com/a/wbnJQVy
 # Contact
 To install the bot on your server, or for any question, please contact me :
 * https://discord.gg/cNbNvn88ky
-* Siropalafraise#3862 on Discord
+* siropalafraise on Discord
