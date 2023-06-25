@@ -25,7 +25,7 @@ Players will have to manually click on the "Attack now" button when they hear th
 
 The bot will return the list of registered players.
 
-* /ac_racingtiles
+* /ac_racingcoords
 
 The bot will return a list of the best coordinates for racing, according to your marching speed and the buildings that you want to capture.\
 Players will have to register to know which troop type is associated with which colour.
@@ -68,7 +68,7 @@ After inviting the bot in your Discord server, you will have to send me your Dis
 
 # Image gallery
 
-https://imgur.com/a/1EcTyhm
+https://imgur.com/a/wbnJQVy
 
 # Contact
 To install the bot on your server, or for any question, please contact me :
