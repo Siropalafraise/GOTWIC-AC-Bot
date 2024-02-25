@@ -51,7 +51,7 @@ The bot will disconnect from the voice channel.
 * Entrance phase
 
 The bot manager uses /ac_reset to clear data from the past.\
-Racers choose their coordinates using /ac_racingtiles.\
+Racers choose their coordinates using /ac_racingcoords.\
 Rally leaders register with /ac_addplayer.\
 The bot manager uses /ac_list to make sure that everyone is correctly registered.
 
